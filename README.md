@@ -7,6 +7,9 @@ Paper at: https://arxiv.org/abs/2102.03236.
 ## Code structure
 
 Please, refer to the notebook `exact-cp-optimization.ipynb` for implementation and evaluation details.
+If you have troubles viewing the notebook via Github, use: https://nbviewer.jupyter.org/github/gchers/exact-cp-optimization/blob/main/exact-cp-optimization.ipynb.
+
+
 The code in `eli.py` is a simple library used for carrying out the experiments.
 
 ## Citing
