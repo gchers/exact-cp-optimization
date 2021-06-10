@@ -2,7 +2,7 @@
 
 Implementation and evaluation of full CP (classifiers and regressors) optimized via incremental&decremental learning.
 
-Paper at: https://arxiv.org/abs/2102.03236.
+Paper at: https://arxiv.org/abs/2102.03236. To appear: ICML '21.
 
 ## Code structure
 
